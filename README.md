@@ -1,6 +1,5 @@
 # Perpustakaan
-Sistem Informasi Perpustakaan Menggunakan PHP Murni. <br>
-Dapat dikembangan menggunakan Framework Yang disukai.
+Sistem Informasi Perpustakaan. <br>
 
 Fitur :
 - Daftar Buku
